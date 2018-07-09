@@ -24,5 +24,5 @@ Ex: `bundle exec bin/challenge analyzer`
 Use `--force` to force Twitter fetch and ignore saved file.
 
 `factors`: Run factors algorithm. 
-Ex: `bundle exec bin/challenge factos 10,5,2,20`
+Ex: `bundle exec bin/challenge factors 10,5,2,20`
 
