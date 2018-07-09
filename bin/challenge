@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "awesome_challenge"
+
+AwesomeChallenge::ApplicationCommand.run
